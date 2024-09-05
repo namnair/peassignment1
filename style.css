@@ -1,0 +1,45 @@
+body {
+    background-color: #D8BFD8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    border: 2px solid #06ed4f;
+}
+header h1 {
+    text-align: center;
+    color: #333;
+}
+section {
+    margin: 20px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid #06ed4f;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #a24caf;
+    color: white;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #a24caf;
+    border: 2px solid #06ed4f;
+}
+#profilepic {
+    display: block;
+    margin: 0 auto;
+    width: 180px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #06ed4f;
+}
